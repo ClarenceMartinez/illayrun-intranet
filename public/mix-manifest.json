@@ -1,0 +1,14 @@
+{
+    "/js/dist/ventas.js": "/js/dist/ventas.js",
+    "/js/dist/venta-bus.js": "/js/dist/venta-bus.js",
+    "/js/dist/venta-asiento.js": "/js/dist/venta-asiento.js",
+    "/js/dist/venta-modal.js": "/js/dist/venta-modal.js",
+    "/js/dist/venta-form.js": "/js/dist/venta-form.js",
+    "/js/dist/encomienda-form.js": "/js/dist/encomienda-form.js",
+    "/js/dist/encomiendas.js": "/js/dist/encomiendas.js",
+    "/js/dist/buses.js": "/js/dist/buses.js",
+    "/js/dist/itinerarios.js": "/js/dist/itinerarios.js",
+    "/js/dist/bus.js": "/js/dist/bus.js",
+    "/js/dist/manifest.js": "/js/dist/manifest.js",
+    "/js/dist/vendor.js": "/js/dist/vendor.js"
+}

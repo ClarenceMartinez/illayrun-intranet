@@ -1,0 +1,19 @@
+.piso0_container {
+    height: 220px; position: absolute; top: 40px; left: 160px; width: 250px; display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.piso1_container {
+    height: 220px; position: absolute; top: 40px; left: 450px; width: 250px; display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.piso_row {
+    display: flex; flex-direction: column-reverse; justify-content: space-between; width: 70px; height: 220px;
+}
+
+.form-group {
+    margin-bottom: 1rem !important;
+}
